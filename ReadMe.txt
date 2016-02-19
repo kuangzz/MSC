@@ -1,7 +1,7 @@
 This is the supplementary code for our paper:
 *********************************************
 *Shape similarity assessment based on partial feature aggregation and ranking lists
-*
+*First and second round of review.
 *Version: v1
 *2/15/2016
 
