@@ -1,8 +1,6 @@
 This is the supplementary code for our paper:
 *********************************************
 *Shape similarity assessment based on partial feature aggregation and ranking lists
-*Submitted to Pattern Recognition Letters for Review
-*Contact: Zhenzhong Kuang(zzkuang@foxmail.com)
 *
 *Version: v1
 *2/15/2016
