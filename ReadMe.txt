@@ -14,7 +14,3 @@ Software: MATLAB
 
 (3) By running "Demo_PML_SimilarityReEvaluation.m", you can re-evaluate the results of (2) by metric learning
     At the same time, your can see the evaluation results.
-
-Please do not distribute the code before acceptance. 
-If there are any problems, please email us (zzkuang@foxmail.com). Thanks.
-We will optimize our codes to make them easy to read by releasing a new version (including more comments and implementation details) shortly.
